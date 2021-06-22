@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Simple Todo List*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple Todo List** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Your Name Here**
+Submitted by: **Miguel Hulyalkar**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -34,9 +34,11 @@ GIF created with [Kap](https://getkap.co/).
 
 Describe any challenges encountered while building the app.
 
+The drag and drop functionality for Objects in the .xml file was not working. I had to manually position them.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 Miguel Hulyalkar
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
